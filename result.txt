@@ -216,6 +216,17 @@ Unload(C3, P3, SFO)
 
 Solving Air Cargo Problem 2 using breadth_first_tree_search...
 
+
+
+
+
+LAST ROUND ON AWS
+
+
+
+
+
+
 Solving Air Cargo Problem 1 using breadth_first_search...
 
 Expansions   Goal Tests   New Nodes
